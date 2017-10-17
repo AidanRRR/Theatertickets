@@ -1,0 +1,14 @@
+﻿# Admin
+Admin voegt voorstellingen toe
+Admin schakelt stoelen uit
+Admin voegt reservatienr's toe
+
+# Bezoeker stoel selecteren
+Bezoeker geeft ReservatieVr in
+Bezoeker selecteert stoeltje
+Bezoeker bevestigd keuze
+
+# Bezoeker aanpassing stoel
+Bezoeker geeft ReservatieNr in
+Bezoeker selecteert stoeltje
+Bezoeker bevestigd keuze
