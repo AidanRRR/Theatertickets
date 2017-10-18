@@ -1,0 +1,16 @@
+.mlc-zaalplan {}
+
+.mlc-zaalplan td {
+    border: 2px solid;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+}
+
+.mlc-zaalplan td:hover {
+    background-color: red;
+}
+
+.gedeactiveerd {
+    background-color: gray;
+}
